@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Flipkart Practical Report]">
+  <listeners>
+    <listener class-name="com.flipkart.customreport.CustomTestNGReporter"/>
+  </listeners>
+  <test name="NAPCO project test - login Testcases">
+    <classes>
+      <class name="com.flipkart.testcases.GoogleToFlipkartTC"/>
+    </classes>
+  </test> <!-- NAPCO project test - login Testcases -->
+</suite> <!-- Failed suite [Flipkart Practical Report] -->

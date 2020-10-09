@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Flipkart Practical Report" duration-ms="25902" started-at="2020-10-09T16:44:33Z" finished-at="2020-10-09T16:44:59Z">
+    <groups>
+    </groups>
+    <test name="NAPCO project test - login Testcases" duration-ms="25902" started-at="2020-10-09T16:44:33Z" finished-at="2020-10-09T16:44:59Z">
+      <class name="com.flipkart.testcases.GoogleToFlipkartTC">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.flipkart.testcases.GoogleToFlipkartTC@71c7db30]" name="openBrowser" is-config="true" duration-ms="9691" started-at="2020-10-09T22:14:33Z" finished-at="2020-10-09T22:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="setup()[pri:1, instance:com.flipkart.testcases.GoogleToFlipkartTC@71c7db30]" name="setup" duration-ms="8" started-at="2020-10-09T22:14:43Z" finished-at="2020-10-09T22:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verify_the_page_title_of_google_page()[pri:2, instance:com.flipkart.testcases.GoogleToFlipkartTC@71c7db30]" name="verify_the_page_title_of_google_page" duration-ms="10" started-at="2020-10-09T22:14:43Z" finished-at="2020-10-09T22:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_the_page_title_of_google_page -->
+        <test-method status="PASS" signature="search_for_flipkart()[pri:3, instance:com.flipkart.testcases.GoogleToFlipkartTC@71c7db30]" name="search_for_flipkart" duration-ms="300" started-at="2020-10-09T22:14:43Z" finished-at="2020-10-09T22:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_for_flipkart -->
+        <test-method status="PASS" signature="verify_the_search_results()[pri:4, instance:com.flipkart.testcases.GoogleToFlipkartTC@71c7db30]" name="verify_the_search_results" duration-ms="934" started-at="2020-10-09T22:14:43Z" finished-at="2020-10-09T22:14:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_the_search_results -->
+        <test-method status="PASS" signature="verify_enter_key_and_open_flipkart_website()[pri:5, instance:com.flipkart.testcases.GoogleToFlipkartTC@71c7db30]" name="verify_enter_key_and_open_flipkart_website" duration-ms="6271" started-at="2020-10-09T22:14:44Z" finished-at="2020-10-09T22:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_enter_key_and_open_flipkart_website -->
+        <test-method status="PASS" signature="verify_open_of_flipkart_website()[pri:6, instance:com.flipkart.testcases.GoogleToFlipkartTC@71c7db30]" name="verify_open_of_flipkart_website" duration-ms="15" started-at="2020-10-09T22:14:50Z" finished-at="2020-10-09T22:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_open_of_flipkart_website -->
+        <test-method status="PASS" signature="verify_the_login_popup_if_showing_then_close_it()[pri:7, instance:com.flipkart.testcases.GoogleToFlipkartTC@71c7db30]" name="verify_the_login_popup_if_showing_then_close_it" duration-ms="239" started-at="2020-10-09T22:14:50Z" finished-at="2020-10-09T22:14:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_the_login_popup_if_showing_then_close_it -->
+        <test-method status="PASS" signature="click_on_TV_and_appliance_dropdown_and_navigate_to_windows_AC()[pri:8, instance:com.flipkart.testcases.GoogleToFlipkartTC@71c7db30]" name="click_on_TV_and_appliance_dropdown_and_navigate_to_windows_AC" duration-ms="4252" started-at="2020-10-09T22:14:50Z" finished-at="2020-10-09T22:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_TV_and_appliance_dropdown_and_navigate_to_windows_AC -->
+        <test-method status="PASS" signature="verify_the_selection_of_add_to_compare_of_2nd_and_3rd_product()[pri:9, instance:com.flipkart.testcases.GoogleToFlipkartTC@71c7db30]" name="verify_the_selection_of_add_to_compare_of_2nd_and_3rd_product" duration-ms="629" started-at="2020-10-09T22:14:55Z" finished-at="2020-10-09T22:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_the_selection_of_add_to_compare_of_2nd_and_3rd_product -->
+        <test-method status="PASS" signature="verify_click_on_the_compare_button()[pri:10, instance:com.flipkart.testcases.GoogleToFlipkartTC@71c7db30]" name="verify_click_on_the_compare_button" duration-ms="138" started-at="2020-10-09T22:14:55Z" finished-at="2020-10-09T22:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_click_on_the_compare_button -->
+        <test-method status="PASS" signature="verify_the_name_and_price_of_compare_product()[pri:11, instance:com.flipkart.testcases.GoogleToFlipkartTC@71c7db30]" name="verify_the_name_and_price_of_compare_product" duration-ms="798" started-at="2020-10-09T22:14:55Z" finished-at="2020-10-09T22:14:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_the_name_and_price_of_compare_product -->
+        <test-method status="PASS" signature="verify_to_add_compared_products_in_cart()[pri:12, instance:com.flipkart.testcases.GoogleToFlipkartTC@71c7db30]" name="verify_to_add_compared_products_in_cart" duration-ms="1326" started-at="2020-10-09T22:14:56Z" finished-at="2020-10-09T22:14:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_to_add_compared_products_in_cart -->
+        <test-method status="PASS" signature="verify_to_check_the_availability_of_product()[pri:13, instance:com.flipkart.testcases.GoogleToFlipkartTC@71c7db30]" name="verify_to_check_the_availability_of_product" duration-ms="467" started-at="2020-10-09T22:14:58Z" finished-at="2020-10-09T22:14:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_to_check_the_availability_of_product -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.flipkart.testcases.GoogleToFlipkartTC@71c7db30]" name="closeBrowser" is-config="true" duration-ms="801" started-at="2020-10-09T22:14:58Z" finished-at="2020-10-09T22:14:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.flipkart.testcases.GoogleToFlipkartTC -->
+    </test> <!-- NAPCO project test - login Testcases -->
+  </suite> <!-- Flipkart Practical Report -->
+</testng-results>
